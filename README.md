@@ -1,3 +1,3 @@
-# AngularMeanCrudTutorial
+# Consume APIs using Angular
 
-[Build Angular 11 CRUD Application with NodeJS and Express REST API](https://www.positronx.io/build-angular-crud-application-with-nodejs-and-express-rest-api/)
+Simple angular tutorial to consume APIs for CRUD RESTful services
